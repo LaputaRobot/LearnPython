@@ -1,0 +1,49 @@
+2021-01-15 22:50:37,229 | INFO | logEE.py:35 | This is info log
+2021-01-15 22:50:37,245 | WARNING | logEE.py:36 | This is warning log
+2021-01-15 22:50:37,245 | ERROR | logEE.py:37 | This is error log
+2021-01-15 22:50:37,245 | CRITICAL | logEE.py:38 | This is critical log
+2021-01-15 22:52:12,408 | DEBUG | logEE.py:34 | This is debug log
+2021-01-15 22:52:12,408 | INFO | logEE.py:35 | This is info log
+2021-01-15 22:52:12,408 | WARNING | logEE.py:36 | This is warning log
+2021-01-15 22:52:12,408 | ERROR | logEE.py:37 | This is error log
+2021-01-15 22:52:12,408 | CRITICAL | logEE.py:38 | This is critical log
+2021-01-15 22:54:46,127 | WARNING | logEE.py:36 | This is warning log
+2021-01-15 22:54:46,127 | ERROR | logEE.py:37 | This is error log
+2021-01-15 22:54:46,127 | CRITICAL | logEE.py:38 | This is critical log
+2021-01-15 22:55:41,744 | INFO | logEE.py:35 | This is info log
+2021-01-15 22:55:41,744 | WARNING | logEE.py:36 | This is warning log
+2021-01-15 22:55:41,744 | ERROR | logEE.py:37 | This is error log
+2021-01-15 22:55:41,744 | CRITICAL | logEE.py:38 | This is critical log
+2021-01-15 22:58:27,422 |     INFO | logEE.py:35 | This is info log
+2021-01-15 22:58:27,660 |  WARNING | logEE.py:36 | This is warning log
+2021-01-15 22:58:27,660 |    ERROR | logEE.py:37 | This is error log
+2021-01-15 22:58:27,660 | CRITICAL | logEE.py:38 | This is critical log
+2021-01-15 22:58:51,706 |     INFO | logEE.py:35 | This is info log
+2021-01-15 22:58:51,706 |  WARNING | logEE.py:36 | This is warning log
+2021-01-15 22:58:51,706 |    ERROR | logEE.py:37 | This is error log
+2021-01-15 22:58:51,706 | CRITICAL | logEE.py:38 | This is critical log
+2021-01-15 23:03:32,051 |     INFO | logEE.py:38 | This is info log
+2021-01-15 23:03:32,051 |  WARNING | logEE.py:39 | This is warning log
+2021-01-15 23:03:32,051 |    ERROR | logEE.py:40 | This is error log
+2021-01-15 23:03:32,051 | CRITICAL | logEE.py:41 | This is critical log
+2021-01-15 23:05:16,560 |     INFO | logEE.py:38 | This is info log
+2021-01-15 23:05:16,560 |  WARNING | logEE.py:39 | This is warning log
+2021-01-15 23:05:16,560 |    ERROR | logEE.py:40 | This is error log
+2021-01-15 23:05:16,560 | CRITICAL | logEE.py:41 | This is critical log
+2021-01-15 23:06:39,255 |     INFO | logEE.py:38 | This is info log
+2021-01-15 23:06:39,255 |  WARNING | logEE.py:39 | This is warning log
+2021-01-15 23:06:39,255 |    ERROR | logEE.py:40 | This is error log
+2021-01-15 23:06:39,256 | CRITICAL | logEE.py:41 | This is critical log
+2021-01-15 23:07:15,971 |     INFO | logEE.py:39 | This is info log
+2021-01-15 23:07:15,971 |  WARNING | logEE.py:40 | This is warning log
+2021-01-15 23:07:15,971 |    ERROR | logEE.py:41 | This is error log
+2021-01-15 23:07:15,971 | CRITICAL | logEE.py:42 | This is critical log
+2021-01-15 23:33:30,331 |     INFO | logEE.py:39 | This is info log
+2021-01-15 23:33:30,331 |  WARNING | logEE.py:40 | This is warning log
+2021-01-15 23:33:30,332 |    ERROR | logEE.py:41 | This is error log
+2021-01-15 23:33:30,332 | CRITICAL | logEE.py:42 | This is critical log
+2021-01-15 23:33:30,332 |    ERROR | logEE.py:48 | invalid literal for int() with base 10: 'a'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/pythonProject/LearnPython/logEE.py", line 46, in <module>
+    int(a)
+ValueError: invalid literal for int() with base 10: 'a'

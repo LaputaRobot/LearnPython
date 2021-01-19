@@ -1,0 +1,9 @@
+{
+    "name": "ketty",
+    "age": 2,
+    "color": "white",
+    "food": [
+        "meat",
+        "vegetables"
+    ]
+}
