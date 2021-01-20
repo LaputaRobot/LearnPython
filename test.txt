@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-second learn git in bilibili branch
-=======
 second learn git in bilibili branch
 edit by locally
 test conflict
->>>>>>> c47eccc3c9503e4f4d3e68815a057e3095d7bc76
